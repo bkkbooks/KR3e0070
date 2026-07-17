@@ -31,6 +31,7 @@ markers:
   - {type: line-break, offset: 16, content: '', id: KR3e0070_WYG_034-1a05}
   - {type: indent, offset: 16, content: 　, id: KR3e0070_krp_034-bkkind6}
   - {type: punctuation, offset: 19, content: (, id: KR3e0070_krp_034-bkkpn1}
+  - {type: voice, offset: 19, length: 12, name: note, id: n1}
   - {type: punctuation, offset: 25, content: /, id: KR3e0070_krp_034-bkkpn2}
   - {type: punctuation, offset: 31, content: ), id: KR3e0070_krp_034-bkkpn3}
   - {type: 'kr:newline', offset: 31, content: '
@@ -227,6 +228,7 @@ markers:
   - {type: line-break, offset: 776, content: '', id: KR3e0070_WYG_034-3b03}
   - {type: indent, offset: 776, content: 　　　, id: KR3e0070_krp_034-bkkind8}
   - {type: punctuation, offset: 781, content: (, id: KR3e0070_krp_034-bkkpn4}
+  - {type: voice, offset: 781, length: 17, name: note, id: n2}
   - {type: substitution, offset: 784, original: 姙, replacement: 妊, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17942}}
   - {type: punctuation, offset: 790, content: /, id: KR3e0070_krp_034-bkkpn5}
   - {type: punctuation, offset: 798, content: ), id: KR3e0070_krp_034-bkkpn6}
@@ -393,6 +395,7 @@ markers:
   - {type: line-break, offset: 1378, content: '', id: KR3e0070_WYG_034-5b02}
   - {type: indent, offset: 1378, content: 　　　, id: KR3e0070_krp_034-bkkind20}
   - {type: punctuation, offset: 1383, content: (, id: KR3e0070_krp_034-bkkpn7}
+  - {type: voice, offset: 1383, length: 5, name: note, id: n3}
   - {type: punctuation, offset: 1386, content: /, id: KR3e0070_krp_034-bkkpn8}
   - {type: punctuation, offset: 1388, content: ), id: KR3e0070_krp_034-bkkpn9}
   - {type: 'kr:newline', offset: 1388, content: '
@@ -1481,4 +1484,4 @@ markers:
 
       ', id: KR3e0070_krp_034-bkkkrnewl305}
   back: []
-hash: sha256:89705d5f7c5e30b42da98b890bcae144cd0e7e02fa71d6a6931964850b9168b0
+hash: sha256:3a8d540e30de09414e2f6e4df5fa6e1bcc77adb719015aeaf9c2b646a34f099a
